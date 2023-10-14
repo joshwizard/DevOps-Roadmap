@@ -1,0 +1,22 @@
+5 steps to become a DevOps Engineer (Job ready)
+
+1. Learn the basics of CS
+ - Client-Server Architecture 
+ - Linux, Networking
+ - Programming: Pick one language (Python, Go)
+ - Learn Docker
+
+2. Learn Cloud
+ - Pick any one of AWS, GCP, Azure
+
+3. Learn major DevOps Tools
+ - Kubernetes 
+ - One CI/CD tool: jenkins
+ - One IAC tool: Terraform
+ - Config management: Ansible
+ - Monitoring: Prometheus, grafana
+
+4. Build Several Hands-on projects
+ - Checkout kubekode youtube channel's DevOps projects
+
+5. pass one or more certification exams.
